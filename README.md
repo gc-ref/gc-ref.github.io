@@ -1,6 +1,6 @@
 # Website
 
-This directory contains source code for the [website](https://vac-nvs.github.io).
+This directory contains source code for the [website](https://gc-ref.github.io/).
 
 The code for this webiste is based on the website for [3D Moments](https://github.com/3d-moments/3d-moments.github.io) and [Nerfies](https://github.com/nerfies/nerfies.github.io).
 
